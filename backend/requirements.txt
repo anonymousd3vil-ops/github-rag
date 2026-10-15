@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic-settings
+langchain-core
+langchain-ollama
+langchain-chroma
+chromadb
+GitPython
+sentence-transformers
+torch
